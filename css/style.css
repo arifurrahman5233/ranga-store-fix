@@ -1,0 +1,19 @@
+
+.body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.header{
+    background-color: #adadad;
+}
+img{
+    height: 200px;
+}
+.footer{
+    background-color: #adadad;
+}
+.cart{
+  position: fixed;
+  background-color: #5CDB94;
+}
+
